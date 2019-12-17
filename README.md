@@ -394,6 +394,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-radio-group](https://github.com/pleerock/ng2-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Dropdown menu for angular2 and bootstrap 3
 * [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Simple progress bar for angular2 and bootstrap 3
+* [@kken94/ngx-progress](https://github.com/kKen94/ngx-progress)  The most powerful and customizable progress bar for Angular ✨
 * [ng2-tabs](https://github.com/pleerock/ng2-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
 * [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
